@@ -1,6 +1,6 @@
 package Exercicio02;
 
-public class ContaCorrente extends ContaBancaria{
+public class ContaCorrente extends ContaBancaria {
     public ContaCorrente(double saldo) {
         super(saldo);
     }

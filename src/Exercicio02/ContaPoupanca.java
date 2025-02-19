@@ -1,6 +1,6 @@
 package Exercicio02;
 
-public class ContaPoupanca extends ContaBancaria{
+public class ContaPoupanca extends ContaBancaria {
     public ContaPoupanca(double saldo) {
         super(saldo);
     }
